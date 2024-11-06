@@ -1,1 +1,1 @@
-# leetcode_blind_75
+# Leetcode Blind 75
